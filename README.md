@@ -1,6 +1,10 @@
 # Heart-failure-prediction
 As part of my work for the Big Data and Official Statistics course, I surpassed the performance of the paper published by the authors by 3% on Accuracy and 5.3% on F1 just by doing Features Engineering!
 
+All technivcal work is available at the following [Google Colab](https://colab.research.google.com/drive/1EWNBX5K2VGL_1RsDTAYKElDC5zteY1Ic?usp=sharing). 
+
+Feel free to leave your comments/feedback in Colab.
+
 ## Introduction
 ![image](https://user-images.githubusercontent.com/44009418/209995503-9bd7d091-9f68-49e6-9c2a-ffb54d72ac3f.png)
 
